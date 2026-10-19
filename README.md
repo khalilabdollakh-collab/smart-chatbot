@@ -1,5 +1,3 @@
-# smart-chatbot
-A beginner-friendly Python chatbot that responds to simple messages using rule-based logic. Built to practice Python fundamentals and explore chatbot development.
 # Smart Chatbot 🤖
 
 A beginner-friendly chatbot built with Python. It responds to simple messages using rule-based logic and randomized responses.
